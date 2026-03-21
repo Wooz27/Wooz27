@@ -15,8 +15,7 @@
 <img align="right" height="200" src="https://i.pinimg.com/originals/aa/9c/55/aa9c554ee9c56c2bf2d575faa918abc9.gif"  />
 
 ###
-
-<p align="left">am an AI Agent Developer and Data Analyst. I'm passionate about continuous growth, always pushing my boundaries and taking on complex challenges to evolve as a developer. This space is where I build, experiment, and deploy intelligent systems.<br><br>🤖 What I do<br>AI Agents: Designing and building autonomous systems and workflows.<br>Data Analysis: Extracting valuable insights from data and visualizing them effectively.<br>Interactive UI: Creating functional and clean interfaces for data and AI applications.<br><br>🛠️ Tech Stack & Tools<br><br>Languages & Frameworks:<br>Python 🐍<br>LangChain & LangGraph 🦜🕸️<br><br>Data Visualization:<br>Altair 📊<br>Matplotlib 📉<br><br>Web & Interfaces:<br>Streamlit 👑<br>Flet 📱<br><br>Feel free to explore my repositories below to see my code in action!</p>
+<p align="left">I am an AI Agent Developer and Data Analyst. I'm passionate about continuous growth, always pushing my boundaries and taking on complex challenges to evolve as a developer. This space is where I build, experiment, and deploy intelligent systems.<br><br>🤖 What I do<br>AI Agents: Designing and building autonomous systems and workflows.<br>Data Analysis: Extracting valuable insights from data and visualizing them effectively.<br>Interactive UI: Creating functional and clean interfaces for data and AI applications.<br><br>🛠️ Tech Stack & Tools<br><br>Languages & Frameworks:<br>Python 🐍<br>LangChain & LangGraph 🦜🕸️<br><br>Data Visualization:<br>Altair 📊<br>Matplotlib 📉<br><br>Web & Interfaces:<br>Streamlit 👑<br>Flet 📱<br><br>Feel free to explore my repositories below to see my code in action!</p>
 
 ###
 
