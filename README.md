@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=1&theme=cobalt&section=header&text=Hi%20there,%20I'm%20Reynaldo!%20%F0%9F%91%8B&fontSize=50&animation=fadeIn&fontAlignY=35&desc=AI%20Agent%20Developer%20%7C%20Data%20Analyst&descAlignY=55&descSize=25" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=1&theme=cobalt&section=header&text=Hi%20there,%20I'm%20Reynaldo!%20%F0%9F%91%8B&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=2E95D3&desc=AI%20Agent%20Developer%20%7C%20Data%20Analyst&descAlignY=55&descSize=25&descColor=FFFFFF" />
 </div>
 
 <div align="center">
@@ -20,7 +20,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="30" height="30" /> About me
+## 🤓 About me
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="300" />
@@ -30,17 +30,17 @@
 
 Welcome to my secondary GitHub account! I am an **AI Agent Developer** and **Data Analyst**. I'm passionate about continuous growth, always pushing my boundaries and taking on complex challenges to evolve as a developer. This space is where I build, experiment, and deploy intelligent systems.
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="Robot" width="25" height="25" /> What I do</h3>
+<h3>🤖 What I do</h3>
 
 - **AI Agents:** Designing and building autonomous systems and workflows.
 - **Data Analysis:** Extracting valuable insights from data and visualizing them effectively.
 - **Interactive UI:** Creating functional and clean interfaces for data and AI applications.
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Tech Stack & Tools</h3>
+<h3>🛠️ Tech Stack & Tools</h3>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="20" height="20" /> **Languages & Frameworks:** Python, LangChain & LangGraph
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="20" height="20" /> **Data Visualization:** Altair, Matplotlib
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="20" height="20" /> **Web & Interfaces:** Streamlit, Flet
+- 🐍 **Languages & Frameworks:** Python, LangChain & LangGraph
+- 📊 **Data Visualization:** Altair, Matplotlib
+- 📱 **Web & Interfaces:** Streamlit, Flet
 
 <br>
 <div align="center">
@@ -52,7 +52,7 @@ Welcome to my secondary GitHub account! I am an **AI Agent Developer** and **Dat
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> I code with
+## 💻 I code with
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -66,7 +66,7 @@ Welcome to my secondary GitHub account! I am an **AI Agent Developer** and **Dat
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="30" height="30" /> Contributions
+## 📈 Contributions
 
 <div align="center">
 <picture>
@@ -84,6 +84,6 @@ Welcome to my secondary GitHub account! I am an **AI Agent Developer** and **Dat
 <br>
 
 <div align="center">
-  <p><em>Feel free to explore my repositories to see my code in action! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face.png" alt="Winking Face" width="20" height="20" /></em></p>
+  <p><em>Feel free to explore my repositories to see my code in action! 😉</em></p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=wooz27.wooz27&" alt="Visitor Badge" />
 </div>
