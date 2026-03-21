@@ -1,94 +1,68 @@
-<h1 align="left">Hi there, I'm Reynaldo Manzanilla 👋</h1>
-
-###
-
-<p align="left">Welcome to my secondary GitHub account!</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<br clear="both">
-
-<img align="right" height="200" src="https://i.pinimg.com/originals/aa/9c/55/aa9c554ee9c56c2bf2d575faa918abc9.gif"  />
-
-###
-<p align="left">I am an AI Agent Developer and Data Analyst. I'm passionate about continuous growth, always pushing my boundaries and taking on complex challenges to evolve as a developer. This space is where I build, experiment, and deploy intelligent systems.<br><br>🤖 What I do<br>AI Agents: Designing and building autonomous systems and workflows.<br>Data Analysis: Extracting valuable insights from data and visualizing them effectively.<br>Interactive UI: Creating functional and clean interfaces for data and AI applications.<br><br>🛠️ Tech Stack & Tools<br><br>Languages & Frameworks:<br>Python 🐍<br>LangChain & LangGraph 🦜🕸️<br><br>Data Visualization:<br>Altair 📊<br>Matplotlib 📉<br><br>Web & Interfaces:<br>Streamlit 👑<br>Flet 📱<br><br>Feel free to explore my repositories below to see my code in action!</p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=1&theme=cobalt&section=header&text=Hi%20there,%20I'm%20Reynaldo!%20%F0%9F%91%8B&fontSize=50&animation=fadeIn&fontAlignY=35&desc=AI%20Agent%20Developer%20%7C%20Data%20Analyst&descAlignY=55&descSize=25" />
 </div>
 
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/reynaldo-manzanilla-a312392ba/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" />
   </a>
 </div>
 
-###
+<br>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E95D3&center=true&vCenter=true&width=500&lines=AI+Agent+Developer;Data+Analyst;Passionate+about+continuous+growth;Building+intelligent+systems" alt="Typing SVG" />
+</div>
+
+## 👨‍💻 About me
+
+<img align="right" height="180" src="https://i.pinimg.com/originals/aa/9c/55/aa9c554ee9c56c2bf2d575faa918abc9.gif" alt="Anime Coding GIF" />
+
+Welcome to my secondary GitHub account! I am an **AI Agent Developer** and **Data Analyst**. I'm passionate about continuous growth, always pushing my boundaries and taking on complex challenges to evolve as a developer. This space is where I build, experiment, and deploy intelligent systems.
+
+<h3>🤖 What I do</h3>
+
+- **AI Agents:** Designing and building autonomous systems and workflows.
+- **Data Analysis:** Extracting valuable insights from data and visualizing them effectively.
+- **Interactive UI:** Creating functional and clean interfaces for data and AI applications.
+
+<h3>🛠️ Tech Stack & Tools</h3>
+
+- 🐍 **Languages & Frameworks:** Python, LangChain & LangGraph
+- 📊 **Data Visualization:** Altair, Matplotlib
+- 📱 **Web & Interfaces:** Streamlit, Flet
+
+<br clear="both">
+
+## 💻 I code with
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,ts,dart,r,html,css,react,vue,flutter,docker,git,linux,mongodb,vscode,aftereffects&perline=8" />
+  </a>
+</div>
+
+<br>
+
+## 📈 GitHub Stats & Contributions
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wooz27&theme=cobalt&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<br>
+
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wooz27/wooz27/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wooz27/wooz27/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wooz27/wooz27/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=wooz27.wooz27&"  />
 </div>
 
-###
+<br>
+
+<div align="center">
+  <p><em>Feel free to explore my repositories to see my code in action!</em></p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wooz27.wooz27&" alt="Visitor Badge" />
+</div>
