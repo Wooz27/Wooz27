@@ -16,7 +16,10 @@
 
 ## 👨‍💻 About me
 
-<img align="right" height="180" src="https://i.pinimg.com/originals/aa/9c/55/aa9c554ee9c56c2bf2d575faa918abc9.gif" alt="Anime Coding GIF" />
+<div align="center">
+  <img src="https://i.pinimg.com/originals/aa/9c/55/aa9c554ee9c56c2bf2d575faa918abc9.gif" alt="Anime Coding GIF" width="350" />
+</div>
+<br>
 
 Welcome to my secondary GitHub account! I am an **AI Agent Developer** and **Data Analyst**. I'm passionate about continuous growth, always pushing my boundaries and taking on complex challenges to evolve as a developer. This space is where I build, experiment, and deploy intelligent systems.
 
@@ -44,13 +47,8 @@ Welcome to my secondary GitHub account! I am an **AI Agent Developer** and **Dat
 
 <br>
 
-## 📈 GitHub Stats & Contributions
+## 📈 Contributions
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wooz27&theme=cobalt&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<br>
 
 <div align="center">
 <picture>
